@@ -11,7 +11,7 @@ In particolare, i valori per il mix elettrico ad **intervalli di 5m** sono calco
 Il mix elettrico è disaggregato in **4 componenti**: produzione **solare**, accumulo a **batterie**, **interscambio** (differenza import - export) e la **produzione rimanente** (quindi altre rinnovabili, nucleare e tutte le fonti fossili).
 È poi aggiunta una linea nera che rappresenta la **domanda di elettricità** dai consumatori (che quindi non comprende né l’export, né il caricamento delle batterie, né l’autoconsumo).
 
-![Produzione di elettricità in California disaggregata per fonte. Elaborazione personale su dati GridStatus, 2024](mix%20elettrico%20california%20(CAISO)/Canva%20-%20California,%20Maggio%202024%20Produzione%20elettrica%20disaggregata%20per%20solare,%20batterie,%20import%20-%20export,%20produzione%20rimanente.jpg)
+![Produzione di elettricità in California disaggregata per fonte. Elaborazione personale su dati GridStatus, 2024](https://github.com/83221n4ndr34/infografiche/blob/main/mix%20elettrico%20california%20(CAISO)/Canva%20-%20California%2C%20Maggio%202024%20%20Produzione%20elettrica%20disaggregata%20per%20solare%2C%20batterie%2C%20import%20-%20export%2C%20produzione%20rimanente.jpg)
 
 
 ## Interpretazione
